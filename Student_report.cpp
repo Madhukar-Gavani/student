@@ -1,7 +1,7 @@
 /*This code is for getting the number of students from user
 and marks of two subjects of each students and display the 
 result if mathematics marks is >70 and algorithm marks is 
->50.
+>50.*/
 #include <iostream>
 using namespace std;
 
